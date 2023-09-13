@@ -24,5 +24,5 @@
   - [Other](https://edm.com/interviews/eprom-interview-syntheism-robotics-live-show)
 
 ### Robot Sketch
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/sketch-robot-1.jpg" alt="Sketch, Robot 1" width="200"/>
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/sketch-robot-1.jpg" alt="Sketch, Robot 1" width="600"/>
 #### -> Project and Idea by Jannah and Fatema
