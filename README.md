@@ -9,7 +9,7 @@
   - Shyu Ruey-Shiann -> [Dreambox](https://theculturetrip.com/asia/china/articles/8-robotics-artists-from-china-hong-kong-and-taiwan)
   - [Jordan Wolfson](https://www.davidzwirner.com/artists/jordan-wolfson)
   
-  - OTHER https://ozobot.com/23-artists-use-technology-canvas-2/
+  - [Other](https://ozobot.com/23-artists-use-technology-canvas-2/)
 
 - Paper 2 (A researcher or writer or group or book discussing robot ethics):
   - John-Stewart Gordon:
