@@ -2,8 +2,7 @@
 
 ## September 18
 ### Robot-1 Base
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base1.jpg" alt="Sketch, Robot 1" height="500"/>
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base2.jpg" alt="Sketch, Robot 1"  width="600"/>
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base1.jpg" alt="base1" height="500"/> <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base2.jpg" alt="base2"  width="600"/>
 
 ## September 13
 ### Topics
