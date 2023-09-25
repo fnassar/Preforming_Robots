@@ -31,3 +31,7 @@
 ### Robot Sketch
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/sketch-robot-1.jpg" alt="Sketch, Robot 1" width="600"/>
 #### -> Project and Idea by Jannah and Fatema
+
+## September 24
+### Story
+[Video Link](https://www.youtube.com/shorts/l13Hn9hQDg0)
