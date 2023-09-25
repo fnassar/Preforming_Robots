@@ -35,3 +35,4 @@
 ## September 24
 ### Story
 [Video Link](https://www.youtube.com/shorts/l13Hn9hQDg0)
+[Music](https://www.youtube.com/watch?v=lRXLAeogv5U)
