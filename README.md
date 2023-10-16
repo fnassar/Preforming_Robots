@@ -56,14 +56,14 @@ Robot characters:
 
 __The idea__ is of a comedic script showing a group of robots trying to find room to fit in in a new enviroment.\
 
-__ACT 2__: 2 humans woke up as robots and are left confused
+#### __ACT 2__: 2 humans woke up as robots and are left confused
 name5  *to no one in particular*: ** "I woke up today and I was not human, a new world of robots and I am trying to find my path"\
 name2  *to <name5>*: ** "Dude, same I dont know what's happening. There seems to be groups over there, idk man I am confusedddd"\
 name5  *to <name2>*: ** "wait u too? this is sadd, what about our human form what where you"\
 name2  *to <name5>*: ** "Heh, I was a mix of stuff. OOOOOOOO THAT IS WHY I CAME UP IN NO GROUPS"\
 name5  *to <name2>*: ** "Ohh... me too. i guess"\
 
-__ACT 2__: 2 older robots talking before they notice the other 2 robots in the back confused and maybe crying
+#### __ACT 2__: 2 older robots talking before they notice the other 2 robots in the back confused and maybe crying
 *3antar dancing in the middle*\
 *name3  comes up to them*\
 name3 : ** *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"\
@@ -80,13 +80,13 @@ name5 : ** *says while sighing* "are you always like this?" "I am trying to get 
 name2 : ** "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
 name5 : ** "ill deal with him, name3, 3antar help please."\
 
-__ACT 3__: The old robots recomend therapy to the recently converted robots to help them adapt to the new world and reform their identities.
+#### __ACT 3__: The old robots recomend therapy to the recently converted robots to help them adapt to the new world and reform their identities.
 
-__ACT 4__: Therapist will introduce the robots to other robots that recently setteled in the new enviroment, and helps them understand the work they need to do next
+#### __ACT 4__: Therapist will introduce the robots to other robots that recently setteled in the new enviroment, and helps them understand the work they need to do next
 
-__ACT 5__: The 2 new robots will find their new homes and make new friends and find their robot family.
+#### __ACT 5__: The 2 new robots will find their new homes and make new friends and find their robot family.
 
-__ACT 6__: Party where 2 robots get married and all robots live happily. yay.
+#### __ACT 6__: Party where 2 robots get married and all robots live happily. yay.
 
 
 
