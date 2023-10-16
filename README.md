@@ -84,9 +84,9 @@ __ACT 3__: The old robots recomend therapy to the recently converted robots to h
 
 __ACT 4__: Therapist will introduce the robots to other robots that recently setteled in the new enviroment, and helps them understand the work they need to do next
 
-__ACT 5__: the 2 new robots will find their new homes and make new friends and find their robot family.
+__ACT 5__: The 2 new robots will find their new homes and make new friends and find their robot family.
 
-__ACT 6__: party where 2 robots get married and all robots live happily
+__ACT 6__: Party where 2 robots get married and all robots live happily. yay.
 
 
 
