@@ -47,12 +47,12 @@
 #### Idenity:
 Robot characters: 
 - 3antar -> Jannah and Fatema -> Identity: (egyptian/arab)
-- <name1> -> Hamad and Yerk -> Identity: (Exploring/finding/understanding) --suggestion
-- <name2> -> Shanaia and Aadhar -> Identity: (South Aisian) --suggestion
-- <name3> -> Nouf and Shaikha -> Identity: (Emarati/Gulf) --suggestion
-- <name4> -> Akhat and Yunho -> Identity: (central/east aisian?) --suggestion
-- <name5> -> Andres and Ryan -> Identity: (Exploring/finding/understanding) --suggestion
-- <name6> -> Akif and Marta -> Therapist/counselor robot
+- < name1 > -> Hamad and Yerk -> Identity: (Exploring/finding/understanding) --suggestion
+- < name2 > -> Shanaia and Aadhar -> Identity: (South Aisian) --suggestion
+- < name3 > -> Nouf and Shaikha -> Identity: (Emarati/Gulf) --suggestion
+- < name4 > -> Akhat and Yunho -> Identity: (central/east aisian?) --suggestion
+- < name5 > -> Andres and Ryan -> Identity: (Exploring/finding/understanding) --suggestion
+- < name6 > -> Akif and Marta -> Therapist/counselor robot
 
 
 <name5> *to no one in particular*: "I woke up today and I was not human, a new world of robots and I am trying to find my path"
