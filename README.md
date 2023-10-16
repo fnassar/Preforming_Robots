@@ -61,21 +61,21 @@ name5  *to <name2>*: "wait u too? this is sadd, what about our human form what w
 name2  *to <name5>*: "Heh, I was a mix of stuff. OOOOOOOO THAT IS WHY I CAME UP IN NO GROUPS"
 name5  *to <name2>*: "Ohh... me too. i guess"
 
-*3antar dancing in the middle*
-*name3  comes up to them*
-name3 : *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"
-3antar: *dramaticly* "girl! you think my creator is happy with this, I will end up running away, at least the egyptian batteries are still giving me life, I could be dead"
-name3 : *sighs* "why do I even..."
-name3 : *sees name2 and name5* "wait are they lost, 3antar look at them they're looping around they'll break their wires"
+*3antar dancing in the middle*<br>
+*name3  comes up to them*<br>
+name3 : *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"<br>
+3antar: *dramaticly* "girl! you think my creator is happy with this, I will end up running away, at least the egyptian batteries are still giving me life, I could be dead"<br>
+name3 : *sighs* "why do I even..."<br>
+name3 : *sees name2 and name5* "wait are they lost, 3antar look at them they're looping around they'll break their wires"<br>
 
-*3antar and name3 go up to name2 and name5*
-3antar: "yoooo, y'all good?"
-name3 : *whispers* "do they look good? be nice""what do i see in him idk"
-name5 : "man I was human yesterday I have no clue what's happening"
-name2 : *Screatching* "dudddeeee me toooo dont leave me out of this"
-name5 : *says while sighing* "are you always like this?" "I am trying to get help here can u please just let me be for a second" *under his breath* "so childish"
-name2 : "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*
-name5 : "ill deal with him, name3, 3antar help please."
+*3antar and name3 go up to name2 and name5*<br>
+3antar: "yoooo, y'all good?"<br>
+name3 : *whispers* "do they look good? be nice""what do i see in him idk"<br>
+name5 : "man I was human yesterday I have no clue what's happening"<br>
+name2 : *Screatching* "dudddeeee me toooo dont leave me out of this"<br>
+name5 : *says while sighing* "are you always like this?" "I am trying to get help here can u please just let me be for a second" *under his breath* "so childish"<br>
+name2 : "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*<br>
+name5 : "ill deal with him, name3, 3antar help please."<br>
 
 3antar: 
 <name3>:
