@@ -56,7 +56,7 @@ Robot characters:
 
 __The idea__ is of a comedic script showing a group of robots trying to find room to fit in in a new enviroment.\
 
-#### __ACT 2__: 2 humans woke up as robots and are left confused
+#### __ACT 1__: 2 humans woke up as robots and are left confused
 name5  *to no one in particular*: ** "I woke up today and I was not human, a new world of robots and I am trying to find my path"\
 name2  *to <name5>*: ** "Dude, same I dont know what's happening. There seems to be groups over there, idk man I am confusedddd"\
 name5  *to <name2>*: ** "wait u too? this is sadd, what about our human form what where you"\
