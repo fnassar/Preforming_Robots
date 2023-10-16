@@ -55,27 +55,27 @@ Robot characters:
 - < name6 > -> Akif and Marta -> Therapist/counselor robot
 
 
-name5  *to no one in particular*: "I woke up today and I was not human, a new world of robots and I am trying to find my path"\
-name2  *to <name5>*: "Dude, same I dont know what's happening. There seems to be groups over there, idk man I am confusedddd"\
-name5  *to <name2>*: "wait u too? this is sadd, what about our human form what where you"\
-name2  *to <name5>*: "Heh, I was a mix of stuff. OOOOOOOO THAT IS WHY I CAME UP IN NO GROUPS"\
-name5  *to <name2>*: "Ohh... me too. i guess"\
+name5  *to no one in particular*: *Tabspace* "I woke up today and I was not human, a new world of robots and I am trying to find my path"\
+name2  *to <name5>*: *Tabspace* "Dude, same I dont know what's happening. There seems to be groups over there, idk man I am confusedddd"\
+name5  *to <name2>*: *Tabspace* "wait u too? this is sadd, what about our human form what where you"\
+name2  *to <name5>*: *Tabspace* "Heh, I was a mix of stuff. OOOOOOOO THAT IS WHY I CAME UP IN NO GROUPS"\
+name5  *to <name2>*: *Tabspace* "Ohh... me too. i guess"\
 
 *3antar dancing in the middle*\
 *name3  comes up to them*\
-name3 : *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"\
-3antar: *dramaticly* "girl! you think my creator is happy with this, I will end up running away, at least the egyptian batteries are still giving me life, I could be dead"\
-name3 : *sighs* "why do I even..."\
-name3 : *sees name2 and name5* "wait are they lost, 3antar look at them they're looping around they'll break their wires"\
+name3 : *Tabspace* *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"\
+3antar: *Tabspace* *dramaticly* "girl! you think my creator is happy with this, I will end up running away, at least the egyptian batteries are still giving me life, I could be dead"\
+name3 : *Tabspace* *sighs* "why do I even..."\
+name3 : *Tabspace* *sees name2 and name5* "wait are they lost, 3antar look at them they're looping around they'll break their wires"\
 
 *3antar and name3 go up to name2 and name5*\
-3antar: "yoooo, y'all good?"\
-name3 : *whispers* "do they look good? be nice""what do i see in him idk"\
-name5 : "man I was human yesterday I have no clue what's happening"\
-name2 : *Screatching* "dudddeeee me toooo dont leave me out of this"\
-name5 : *says while sighing* "are you always like this?" "I am trying to get help here can u please just let me be for a second" *under his breath* "so childish"\
-name2 : "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
-name5 : "ill deal with him, name3, 3antar help please."\
+3antar: *Tabspace* "yoooo, y'all good?"\
+name3 : *Tabspace* *whispers* "do they look good? be nice""what do i see in him idk"\
+name5 : *Tabspace* "man I was human yesterday I have no clue what's happening"\
+name2 : *Tabspace* *Screatching* "dudddeeee me toooo dont leave me out of this"\
+name5 : *Tabspace* *says while sighing* "are you always like this?" "I am trying to get help here can u please just let me be for a second" *under his breath* "so childish"\
+name2 : *Tabspace* "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
+name5 : *Tabspace* "ill deal with him, name3, 3antar help please."\
 
 3antar: 
 <name3>:
