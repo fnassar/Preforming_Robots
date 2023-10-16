@@ -77,8 +77,15 @@ name5 : *Tabspace* *says while sighing* "are you always like this?" "I am trying
 name2 : *Tabspace* "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
 name5 : *Tabspace* "ill deal with him, name3, 3antar help please."\
 
-3antar: 
-<name3>:
+
+
+3antar and name3 will tell them that therapist can help
+
+Therapist will show them examples of groups availabale and have them choose
+
+they will join different groups untill they find where they belong
+
+3antar and name3 will get married
 
 
 
