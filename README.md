@@ -37,3 +37,50 @@
 ### Story
 [Video Link](https://www.youtube.com/shorts/l13Hn9hQDg0)
 [Music](https://www.youtube.com/watch?v=lRXLAeogv5U)
+
+## October 1
+### [video with controler](https://youtube.com/shorts/kRtGvE6MrPE?si=v4go1Dmkk7r4-h21)
+### [code]()
+
+## October 16
+### Script
+#### Idenity:
+Robot characters: 
+- 3antar -> Jannah and Fatema -> Identity: (egyptian/arab)
+- <name1> -> Hamad and Yerk -> Identity: (Exploring/finding/understanding) --suggestion
+- <name2> -> Shanaia and Aadhar -> Identity: (South Aisian) --suggestion
+- <name3> -> Nouf and Shaikha -> Identity: (Emarati/Gulf) --suggestion
+- <name4> -> Akhat and Yunho -> Identity: (central/east aisian?) --suggestion
+- <name5> -> Andres and Ryan -> Identity: (Exploring/finding/understanding) --suggestion
+- <name6> -> Akif and Marta -> Therapist/counselor robot
+
+
+<name5> *to no one in particular*: "I woke up today and I was not human, a new world of robots and I am trying to find my path"
+<name2> *to <name5>*: "Dude, same I dont know what's happening. There seems to be groups over there, idk man I am confusedddd"
+<name5> *to <name2>*: "wait u too? this is sadd, what about our human form what where you"
+<name2> *to <name5>*: "Heh, I was a mix of stuff. OOOOOOOO THAT IS WHY I CAME UP IN NO GROUPS"
+<name5> *to <name2>*: "Ohh... me too. i guess"
+
+*3antar dancing in the middle*
+*<name3> comes up to them*
+<name3>: *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"
+3antar: *dramaticly* "girl! you think my creator is happy with this, I will end up running away, at least the egyptian batteries are still giving me life, I could be dead"
+<name3>: *sighs* "why do I even..."
+<name3>: *sees name2 and name5* "wait are they lost, 3antar look at them they're looping around they'll break their wires"
+
+*3antar and name3 go up to name2 and name5*
+3antar: "yoooo, y'all good?"
+<name3>: *whispers* "do they look good? be nice""what do i see in him idk"
+<name5>: "man I was human yesterday I have no clue what's happening"
+<name2>: *Screatching* "dudddeeee me toooo dont leave me out of this"
+<name5>: *says while sighing* "are you always like this?" "I am trying to get help here can u please just let me be for a second" *under his breath* "so childish"
+<name2>: "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*
+<name5>: "ill deal with him, name3, 3antar help please."
+
+3antar: 
+<name3>:
+
+
+
+
+
