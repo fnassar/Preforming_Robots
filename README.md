@@ -54,13 +54,16 @@ Robot characters:
 - < name5 > -> Andres and Ryan -> Identity: (Exploring/finding/understanding) --suggestion
 - < name6 > -> Akif and Marta -> Therapist/counselor robot
 
+__The idea__ is of a comedic script showing a group of robots trying to find room to fit in in a new enviroment.\
 
+__ACT 2__: 2 humans woke up as robots and are left confused
 name5  *to no one in particular*: *Tabspace* "I woke up today and I was not human, a new world of robots and I am trying to find my path"\
 name2  *to <name5>*: *Tabspace* "Dude, same I dont know what's happening. There seems to be groups over there, idk man I am confusedddd"\
 name5  *to <name2>*: *Tabspace* "wait u too? this is sadd, what about our human form what where you"\
 name2  *to <name5>*: *Tabspace* "Heh, I was a mix of stuff. OOOOOOOO THAT IS WHY I CAME UP IN NO GROUPS"\
 name5  *to <name2>*: *Tabspace* "Ohh... me too. i guess"\
 
+__ACT 2__: 2 older robots talking before they notice the other 2 robots in the back confused and maybe crying
 *3antar dancing in the middle*\
 *name3  comes up to them*\
 name3 : *Tabspace* *sarcastic but annoyed* "my man what are you doing! I am betraying my wires to get married here what are you doing please"\
@@ -77,15 +80,13 @@ name5 : *Tabspace* *says while sighing* "are you always like this?" "I am trying
 name2 : *Tabspace* "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
 name5 : *Tabspace* "ill deal with him, name3, 3antar help please."\
 
+__ACT 3__: The old robots recomend therapy to the recently converted robots to help them adapt to the new world and reform their identities.
 
+__ACT 4__: Therapist will introduce the robots to other robots that recently setteled in the new enviroment, and helps them understand the work they need to do next
 
-3antar and name3 will tell them that therapist can help
+__ACT 5__: the 2 new robots will find their new homes and make new friends and find their robot family.
 
-Therapist will show them examples of groups availabale and have them choose
-
-they will join different groups untill they find where they belong
-
-3antar and name3 will get married
+__ACT 6__: party where 2 robots get married and all robots live happily
 
 
 
