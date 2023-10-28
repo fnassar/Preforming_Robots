@@ -80,15 +80,7 @@ name5 : ** *says while sighing* "are you always like this?" "I am trying to get 
 name2 : ** "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
 name5 : ** "ill deal with him, name3, 3antar help please."\
 
-#### __ACT 3__: The old robots recomend therapy to the recently converted robots to help them adapt to the new world and reform their identities.
-
-#### __ACT 4__: Therapist will introduce the robots to other robots that recently setteled in the new enviroment, and helps them understand the work they need to do next
-
-#### __ACT 5__: The 2 new robots will find their new homes and make new friends and find their robot family.
-
-#### __ACT 6__: Party where 2 robots get married and all robots live happily. yay.
-
-
-
+# Paper 1: 
+[link](https://github.com/fnassar/Preforming_Robots/blob/main/papers/paper1.md)
 
 
