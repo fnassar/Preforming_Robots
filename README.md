@@ -84,7 +84,7 @@ name5 : ** "ill deal with him, name3, 3antar help please."\
 [link](https://github.com/fnassar/Preforming_Robots/blob/main/papers/paper1.md)
 
 # Robot Design:
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base1.jpg" alt="base1" height="500"/>
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/cactus.jpg" alt="base1" height="500"/>
 
 
 
