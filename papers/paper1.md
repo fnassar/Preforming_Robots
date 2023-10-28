@@ -1,9 +1,7 @@
-Ruey-Shiann Shyu
+Ruey-Shiann Shyu \
 
-Fatema Nassar
-
-Paper 1 (Robotic Artist)
-
+Fatema Nassar\
+Paper 1 (Robotic Artist)\
 Performing Robots
 
 I have always been fascinated by mechanics. We see mechanics in everything we use, from a door opening to a car driving and even a bird flapping its wings, yet not many know much about it. One can say a lot about the mechanics present in everyday life, about its uses and importance. About the magic it makes possible or the simple things, we don’t even notice anymore. Connecting art to anything helps build a bridge between a world we understand and another we know little about. That is what I saw in Ruey-Shiann Shyu’s “Dream Box”. A box that doesn’t do much managed to get me intrigued enough to open his website and explore. 
@@ -19,11 +17,11 @@ Another art piece of his that I liked was called, [Eight Drunken Immortals](http
 Shyu has many more art pieces with many different stories and morals he finds and shares through his pieces. He is known for making art that sends a message, that has a meaning, or tells a story he relates to (taac). I believe that he achieved what many small artists dream of. He managed to do what he liked, explore mediums, and send messages, and his last show/exhibition was in 2016, around the time he was 50 years old. As I hope this will not be his last show, I am sure that deep down, he is one whose career steps I would not mind following.
 
 
-CITATIONS: 
-[Ruey-Shiann Shyu’s Biography](https://www.rueyshyu.com/biography/)
-[Ruey-Shiann Shyu Artist statement](https://www.rueyshyu.com/)
-[white Rabbit Collection](https://whiterabbitcollection.org/artist/shyu-ruey-shiann/)
-[Art News](https://www.artnews.com/art-in-america/features/shyu-ruey-shiann-56587/)
-[Taak](http://www.taac-us.org/shyurueyshiann/ )
-[Dream Box -> The Bronks museum](https://bronxmuseum.org/exhibition/useless-machines-for-dreaming/)
-[dangrove](https://explore.dangrove.org/objects/960)
+CITATIONS: \
+[Ruey-Shiann Shyu’s Biography](https://www.rueyshyu.com/biography/)\
+[Ruey-Shiann Shyu Artist statement](https://www.rueyshyu.com/)\
+[white Rabbit Collection](https://whiterabbitcollection.org/artist/shyu-ruey-shiann/)\
+[Art News](https://www.artnews.com/art-in-america/features/shyu-ruey-shiann-56587/)\
+[Taak](http://www.taac-us.org/shyurueyshiann/ )\
+[Dream Box -> The Bronks museum](https://bronxmuseum.org/exhibition/useless-machines-for-dreaming/)\
+[dangrove](https://explore.dangrove.org/objects/960)\
