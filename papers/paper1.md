@@ -1,5 +1,4 @@
-Ruey-Shiann Shyu \
-
+Ruey-Shiann Shyu\
 Fatema Nassar\
 Paper 1 (Robotic Artist)\
 Performing Robots
