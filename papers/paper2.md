@@ -13,5 +13,5 @@ This paper raises many questions about the requirements of these tasks in our da
 
 Talking about the ethics HRIs or just AI robots should have is a never-ending conversation of what they should and shouldn’t do. However, Winkle raises important issues regarding how robots interact with different groups of people. It is important to take notice of the fact that not everyone exists within the same environment and that if a robot were to exist in a place where different people exist, it needs to be trained to interact with each type of human it is meant to interact with. It is important to take into consideration how if the robot reflects the creator's likes and dislikes it's not enough. It should be essential to pass the robot through different testing levels that add more to its general value and morals to make it more suitable for everyone who could possibly interact with it.
 
-[[1]https://dl.acm.org/doi/pdf/10.1145/3568162.3576973](https://dl.acm.org/doi/pdf/10.1145/3568162.3576973)\
-[[2]https://www.youtube.com/watch?v=58KxkBUg_bI](https://www.youtube.com/watch?v=58KxkBUg_bI)
+[[1] https://dl.acm.org/doi/pdf/10.1145/3568162.3576973](https://dl.acm.org/doi/pdf/10.1145/3568162.3576973)\
+[[2] https://www.youtube.com/watch?v=58KxkBUg_bI](https://www.youtube.com/watch?v=58KxkBUg_bI)
