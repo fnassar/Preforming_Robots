@@ -89,3 +89,55 @@ name5 : ** "ill deal with him, name3, 3antar help please."\
 # Paper 2:
 [link](https://github.com/fnassar/Preforming_Robots/blob/main/papers/paper2.md)
 
+# Robot Production:
+
+## Mechanics: 
+### Design:
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot1.jpg" alt="robot1" height="500"/>
+First, we designed the robot on fusion and decided to add the motors at every moving part of the body
+
+### WOOD ROBOT:
+
+Then we built the wood in wood to check how the mechanism will work
+
+### Metal:
+
+We last built the robot with aluminum to reduce the weight of the robot's body to help its over all stability.
+
+### Challenges:
+
+Our main challenges were:
+- Dealing with aluminum was a lot harder than wood, it was harder to drill, and stabilize.
+- Stabilizing the aluminum rods on the shaft was a main struggle
+  - We first tried to drill holes in the motor shaft to control the stability, but it was harder than expected to drill a hole in the steel shaft.
+  - Finally, we decided to weld the shaft to the hub to keep the metal rods from moving around
+ - the robot stability was still affected and we had to extend the front and back wheels to make it more stable and prevent it from toppling over
+
+## Code:
+
+### Wheels:
+#### Main Difference:
+The different thing we added to the wheels was the speed, we mapped the RC controller input to the speed and passed it to the forward, reverse, left and right functions which control the movements:
+`
+      if (rc_values[RC_CH2] > 1600) {
+        forward(map(rc_values[RC_CH2], 1600, 2100, 0, 255));
+      }
+      else if (rc_values[RC_CH2] < 1400) reverse(map(rc_values[RC_CH2], 1400, 900, 0, 255));
+    
+      // robot moving right and left using Hobby RC controller
+    
+      else if (rc_values[RC_CH1] > 1600) right(map(rc_values[RC_CH1], 1600, 2100, 0, 255));
+      else if (rc_values[RC_CH1] < 1400) left (map(rc_values[RC_CH1], 1400, 900, 0, 255));
+      else stop();
+`
+
+### Transmitter:
+
+### Receiver:
+
+
+
+
+
+
+
