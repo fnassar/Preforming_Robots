@@ -272,15 +272,6 @@ void ledStrip() {
 void dance() {
   unsigned long currentMillis = millis();
   Serial.print("servo: ");
-  // Serial.print("pos1 ");
-  // Serial.print(pos);
-
-  // Serial.print("    pos2 ");
-  // Serial.print(pos2);
-
-  // Serial.print("    pos3 ");
-  // Serial.println(pos3);
-
 
   if ((unsigned long)(currentMillis - previousMillis2) >= interval) {
     previousMillis2 = currentMillis;
@@ -289,29 +280,10 @@ void dance() {
     myservo3.write(pos3);
     // check direction and add for one/ subtract for one
     if (flag) {
-      Serial.print("flag: ");
-      Serial.print("pos1 ");
-      Serial.print(pos);
-
-      Serial.print("    pos2 ");
-      Serial.print(pos2);
-
-      Serial.print("    pos3 ");
-      Serial.println(pos3);
-
       pos -= 1;
       pos2 -= 1;
       pos3 -= 1;
     } else {
-      Serial.print("!flag: ");
-      Serial.print("pos1 ");
-      Serial.print(pos);
-
-      Serial.print("    pos2 ");
-      Serial.print(pos2);
-
-      Serial.print("    pos3 ");
-      Serial.println(pos3);
       pos += 1;
       pos2 += 1;
       pos3 += 1;
