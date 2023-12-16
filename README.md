@@ -119,16 +119,14 @@ Our main challenges were:
 #### Main Difference:
 The different thing we added to the wheels was the speed, we mapped the RC controller input to the speed and passed it to the forward, reverse, left and right functions which control the movements:
 `
-if (rc_values[RC_CH2] > 1600) {
-  forward(map(rc_values[RC_CH2], 1600, 2100, 0, 255));
-}
-else if (rc_values[RC_CH2] < 1400) reverse(map(rc_values[RC_CH2], 1400, 900, 0, 255));
-    
-// robot moving right and left using Hobby RC controller
-    
-else if (rc_values[RC_CH1] > 1600) right(map(rc_values[RC_CH1], 1600, 2100, 0, 255));
-else if (rc_values[RC_CH1] < 1400) left (map(rc_values[RC_CH1], 1400, 900, 0, 255));
-else stop();
+    if (rc_values[RC_CH2] > 1600) {
+      forward(map(rc_values[RC_CH2], 1600, 2100, 0, 255));
+    }
+    else if (rc_values[RC_CH2] < 1400) reverse(map(rc_values[RC_CH2], 1400, 900, 0, 255));
+    // robot moving right and left using Hobby RC controller
+    else if (rc_values[RC_CH1] > 1600) right(map(rc_values[RC_CH1], 1600, 2100, 0, 255));
+    else if (rc_values[RC_CH1] < 1400) left (map(rc_values[RC_CH1], 1400, 900, 0, 255));
+    else stop();
 `
 
 ### Transmitter:
