@@ -239,6 +239,101 @@ char* theStates[] = {
   - We reduced the names of all our audio to 8 characters then it worked perfectly.
  
 - We used millis to control different items looping together.
+- Our looping cases:
+  - led strip around the robot
+```
+void ledStrip() {
+  unsigned long currentMillis = millis();
+  // Handling the other LED strip
+  if (currentMillis - previousMillis >= interval2) {
+    previousMillis = currentMillis;
+
+    pixelsOther.clear();
+    pixelsOther.setPixelColor(currentLED, pixelsOther.Color(random(255), random(255), random(255)));
+    pixelsOther.show();
+
+    currentLED = (currentLED + 1) % NUMPIXELS_OTHER;
+  }
+}
+```
+  - Dancing:
+```
+
+void dance() {
+  unsigned long currentMillis = millis();
+  Serial.print("servo: ");
+  // Serial.print("pos1 ");
+  // Serial.print(pos);
+
+  // Serial.print("    pos2 ");
+  // Serial.print(pos2);
+
+  // Serial.print("    pos3 ");
+  // Serial.println(pos3);
+
+
+  if ((unsigned long)(currentMillis - previousMillis2) >= interval) {
+    previousMillis2 = currentMillis;
+    myservo1.write(pos);
+    myservo2.write(pos2);
+    myservo3.write(pos3);
+    // check direction and add for one/ subtract for one
+    if (flag) {
+      Serial.print("flag: ");
+      Serial.print("pos1 ");
+      Serial.print(pos);
+
+      Serial.print("    pos2 ");
+      Serial.print(pos2);
+
+      Serial.print("    pos3 ");
+      Serial.println(pos3);
+
+      pos -= 1;
+      pos2 -= 1;
+      pos3 -= 1;
+    } else {
+      Serial.print("!flag: ");
+      Serial.print("pos1 ");
+      Serial.print(pos);
+
+      Serial.print("    pos2 ");
+      Serial.print(pos2);
+
+      Serial.print("    pos3 ");
+      Serial.println(pos3);
+      pos += 1;
+      pos2 += 1;
+      pos3 += 1;
+    }
+    // check location and change flag if direction will change
+    if (pos >= pos12) {
+      flag = true;
+    }
+    if (pos <= pos11) {
+      flag = false;
+    }
+  }
+}
+```
+  - Talking Mouth
+```
+void talkingMouth() {
+  unsigned long currentMouthMillis = millis();
+  if (currentState == 0) {                                                                           // Closed mouth
+    displayMouth(pixelsMouth, mouthClosed, sizeof(mouthClosed) / sizeof(mouthClosed[0]), 0xFF0000);  // Change color as needed
+    if (currentMouthMillis - previousMouthMillis >= CLOSED_DELAY) {
+      previousMouthMillis = currentMouthMillis;
+      currentState = 1;  // Change state to open mouth
+    }
+  } else {                                                                                     // Open mouth
+    displayMouth(pixelsMouth, mouthOpen, sizeof(mouthOpen) / sizeof(mouthOpen[0]), 0xFF0000);  // Change color as needed
+    if (currentMouthMillis - previousMouthMillis >= OPEN_DELAY) {
+      previousMouthMillis = currentMouthMillis;
+      currentState = 0;  // Change state to closed mouth
+    }
+  }
+}
 
 
 
