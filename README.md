@@ -99,6 +99,7 @@ First, we designed the robot on fusion and decided to add the motors at every mo
 ### WOOD ROBOT:
 
 Then we built the wood in wood to check how the mechanism will work
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot2.jpg" alt="robot1" height="500"/>
 
 ### Metal:
 
@@ -112,6 +113,8 @@ Our main challenges were:
   - We first tried to drill holes in the motor shaft to control the stability, but it was harder than expected to drill a hole in the steel shaft.
   - Finally, we decided to weld the shaft to the hub to keep the metal rods from moving around
  - the robot stability was still affected and we had to extend the front and back wheels to make it more stable and prevent it from toppling over
+
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot3.jpg" alt="robot1" height="500"/>
 
 ## Code:
 
