@@ -118,7 +118,7 @@ Our main challenges were:
 ### Wheels:
 #### Main Difference:
 The different thing we added to the wheels was the speed, we mapped the RC controller input to the speed and passed it to the forward, reverse, left and right functions which control the movements:
-`
+```
     if (rc_values[RC_CH2] > 1600) {
       forward(map(rc_values[RC_CH2], 1600, 2100, 0, 255));
     }
@@ -127,11 +127,118 @@ The different thing we added to the wheels was the speed, we mapped the RC contr
     else if (rc_values[RC_CH1] > 1600) right(map(rc_values[RC_CH1], 1600, 2100, 0, 255));
     else if (rc_values[RC_CH1] < 1400) left (map(rc_values[RC_CH1], 1400, 900, 0, 255));
     else stop();
-`
-
+```
+The code for the different motions is as follows:
+- Backward:
+```
+    void reverse(int speed) {
+      Serial.print("CH2:"); Serial.print(rc_values[RC_CH2]);
+      Serial.print(" front: "); Serial.println(speed);
+      analogWrite(3, 0);
+      analogWrite(5, speed);
+      analogWrite(6, 0);
+      analogWrite(10, speed);
+    
+    }
+```
+- Forward:
+```
+    
+    void forward(int speed) {
+      Serial.print("CH2:"); Serial.print(rc_values[RC_CH2]);
+      Serial.print(" back: "); Serial.println(speed);
+      analogWrite(3, speed);
+      analogWrite(5, 0);
+      analogWrite(6, speed);
+      analogWrite(10, 0);
+    
+    }
+```
+- Right and left
+  - for this one, we made the motion so that the wheels move in opposite directions
+```
+    
+    void right(int speed) {
+      Serial.print("CH1:"); Serial.print(rc_values[RC_CH1]);
+      Serial.print(" right: "); Serial.println(speed);
+      analogWrite(3, 0);
+      analogWrite(5, speed);
+      analogWrite(6, speed);
+      analogWrite(10, 0);
+    
+    }
+    
+    void left(int speed) {
+      Serial.print("CH1:"); Serial.print(rc_values[RC_CH1]);
+      Serial.print(" left: "); Serial.println(speed);
+      analogWrite(3, speed);
+      analogWrite(5, 0);
+      analogWrite(6, 0);
+      analogWrite(10, speed);
+    
+    }
+```
+- The stop was to control when the robot was not moving.
+```   
+    
+    void stop() {
+      analogWrite(3, 0);
+      analogWrite(5, 0);
+      analogWrite(6, 0);
+      analogWrite(10, 0);
+    }
+```
 ### Transmitter:
+- For the transmitter we tried to use an extra button to stop the robot from all the receiver control, but we ran into errors so instead we used the inputs as follows with 18 being the one to stop the motion:
+```
+char* theStates[] = {
+  "0 robot nothing",
+  "1 robot line1",
+  "2 robot line2",
+  "3 robot line3",
+  "4 robot line4",
+  "5 robot line5",
+  "6 robot line6",
+  "7 robot line7",
+  "8 robot line8",
+  "9 robot line9",
+  "10 robot line10",
+  "11 robot monologue",
+  "12 robot alejandro",
+  "13 robot agreed",
+  "14 robot GASP",
+  "15 robot wohoo",
+  "16 robot SHIKSHAK",
+  "17 robot seto ana",
+  "18 stop",
+};
+``` 
 
 ### Receiver:
+- We had many challenges with the receiver:
+  - first was the fact that our code needs to run in loops, however, the code with the receiver & transmitter stopped that, so we added case codes with loops inside that were controlled by the sound playing, the loop ends when the sound ends:
+```
+    case 1:
+        Serial.println(F("Playing track 001"));
+        musicPlayer.startPlayingFile("/track1.mp3");
+
+        while (musicPlayer.playingMusic) {
+          radio.read(&data, sizeof(data));
+          if (data.stateNumber == 18) {
+            break;
+          }
+          dance();
+          talkingMouth();
+          //          ledStrip();
+        }
+        break;
+```
+- each case controlled a specific audio, and we added the data.stateNumber == 18 to stop the code from executing when 18 is transmitted.
+- One other struggle we had was that 2 of the audio files would not play, we weren't sure why.
+  - to figure it out, we printed the names of everything on the SD card, and we found that the names were not being read, as they were longer than 8 characters.
+  - We reduced the names of all our audio to 8 characters then it worked perfectly.
+ 
+- We used millis to control different items looping together.
 
 
 
