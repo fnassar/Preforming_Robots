@@ -117,13 +117,17 @@ Our main challenges were:
 - Stabilizing the aluminum rods on the shaft was a main struggle
   - We first tried to drill holes in the motor shaft to control the stability, but it was harder than expected to drill a hole in the steel shaft.
   - Finally, we decided to weld the shaft to the hub to keep the metal rods from moving around
- - the robot stability was still affected and we had to extend the front and back wheels to make it more stable and prevent it from toppling over
+ - the robot's stability was still affected and we had to extend the front and back wheels to make it more stable and prevent it from toppling over
+
+### Final Robot:
+
+<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot4.jpg" alt="robot1" height="500"/>
 
 ## Code:
 
 ### Wheels:
 #### Main Difference:
-The different thing we added to the wheels was the speed, we mapped the RC controller input to the speed and passed it to the forward, reverse, left and right functions which control the movements:
+The different thing we added to the wheels was the speed, we mapped the RC controller input to the speed and passed it to the forward, reverse, left and right functions that control the movements:
 ```
     if (rc_values[RC_CH2] > 1600) {
       forward(map(rc_values[RC_CH2], 1600, 2100, 0, 255));
