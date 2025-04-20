@@ -4,30 +4,6 @@
 ### Robot-1 Base
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base1.jpg" alt="base1" height="500"/> <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base2.jpg" alt="base2"  width="500"/>
 
-## September 13
-### Topics
-- Paper 1 (An artist or art collective that is working with robotic art (by some definition)):
-  -  [Ai-Da](https://news.artnet.com/art-world/ai-da-design-museum-london-baz-luhrmann-saw-this-made-this-2301275) 
-    -  [A female robot that is also an artist](https://www.dailyartmagazine.com/ai-da-the-ai-powered-robot-artist/)
-  - [Anicka Yi](https://news.artnet.com/art-world/anicka-yi-turbine-hall-commission-2019839)
-  -  Ben Tritt -> [Artmatr](https://news.artnet.com/art-world/artmatr-robotics-painting-2283596)
-  - Shyu Ruey-Shiann -> [Dreambox](https://theculturetrip.com/asia/china/articles/8-robotics-artists-from-china-hong-kong-and-taiwan)
-  - [Jordan Wolfson](https://www.davidzwirner.com/artists/jordan-wolfson)
-  
-  - [Other](https://ozobot.com/23-artists-use-technology-canvas-2/)
-
-- Paper 2 (A researcher or writer or group or book discussing robot ethics):
-  - John-Stewart Gordon:
-    - Department of Philosophy, Faculty of Humanities, Vytautas Magnus University, V. Putvinskio g. 23 (R 306), LT-44243, Kaunas, Lithuania
-    - Faculty of Law, Vytautas Magnus University, V. Putvinskio g. 23 (R 306), LT-44243, Kaunas, Lithuania
-  - Ausrine Pasvenskiene:
-    - Faculty of Law, Vytautas Magnus University, Jonavos g. 66, LT-44138, Kaunas, Lithuania
-  -David J. Gunkel:
-    -  Northern Illinois University, DeKalb, IL, USA
-  -  Katie Winkle (female Robots):
-    -  is a Digital Futures Postdoctoral Research Fellow at KTH Royal Institute of Technology in Sweden.
-  - [Other](https://edm.com/interviews/eprom-interview-syntheism-robotics-live-show)
-
 ### Robot Sketch
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/sketch-robot-1.jpg" alt="Sketch, Robot 1" width="600"/>
 
@@ -43,7 +19,7 @@
 ### [code]()
 
 ## October 16
-### Script
+### Proposed Performance Script
 #### Idenity:
 Robot characters: 
 - 3antar -> Jannah and Fatema -> Identity: (egyptian/arab)
@@ -80,17 +56,10 @@ name5 : ** *says while sighing* "are you always like this?" "I am trying to get 
 name2 : ** "okok im sorry do your thing, u better get me in on this tho" *toung out sound* *turns around and acts sad*\
 name5 : ** "ill deal with him, name3, 3antar help please."\
 
-# Paper 1: 
-[link](https://github.com/fnassar/Preforming_Robots/blob/main/papers/paper1.md)
-
 # Robot Design:
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/cactus.jpg" alt="base1" height="500"/>
 
-# Paper 2:
-[link](https://github.com/fnassar/Preforming_Robots/blob/main/papers/paper2.md)
-
 # Robot Production:
-
 ## Mechanics: 
 ### Design:
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot1.jpg" alt="robot1" height="500"/>
