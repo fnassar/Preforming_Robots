@@ -2,10 +2,14 @@
 
 ## Final Robot
 [Video Link](https://www.youtube.com/shorts/Z11REMjYteA?si=B3Kr4TuOJMTn-b3M)
+![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot4.jpg)
+![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot3.jpg)
+![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot2.jpg)
+![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot1.jpg)
+
 
 ## September 18
 ### Robot-1 Base
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base1.jpg" alt="base1" height="500"/> <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base2.jpg" alt="base2"  width="500"/>
 
 ### Robot Sketch
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/sketch-robot-1.jpg" alt="Sketch, Robot 1" width="600"/>
