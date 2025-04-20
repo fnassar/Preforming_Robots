@@ -1,8 +1,12 @@
 # Preforming_Robots
+### -> Project and Idea by Jannah and Fatema
 
 ## Final Robot
 [Video Link](https://www.youtube.com/shorts/Z11REMjYteA?si=B3Kr4TuOJMTn-b3M)
+
 ![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot4.jpg)
+
+## Main Steps:
 ![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot3.jpg)
 ![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot2.jpg)
 ![](https://github.com/fnassar/Preforming_Robots/blob/main/images/robot1.jpg)
@@ -11,10 +15,6 @@
 ## September 18
 ### Robot-1 Base
 
-### Robot Sketch
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/sketch-robot-1.jpg" alt="Sketch, Robot 1" width="600"/>
-
-### -> Project and Idea by Jannah and Fatema
 
 ## September 24
 ### Story
