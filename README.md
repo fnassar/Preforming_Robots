@@ -1,5 +1,8 @@
 # Preforming_Robots
 
+## Final Robot
+[Video Link](https://www.youtube.com/shorts/l13Hn9hQDg0)
+
 ## September 18
 ### Robot-1 Base
 <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base1.jpg" alt="base1" height="500"/> <img src="https://github.com/fnassar/Preforming_Robots/blob/main/robot_1/base2.jpg" alt="base2"  width="500"/>
@@ -11,7 +14,6 @@
 
 ## September 24
 ### Story
-[Video Link](https://www.youtube.com/shorts/l13Hn9hQDg0)
 [Music](https://www.youtube.com/watch?v=lRXLAeogv5U)
 
 ## October 1
