@@ -1,7 +1,7 @@
 # Preforming_Robots
 
 ## Final Robot
-[Video Link](https://www.youtube.com/shorts/l13Hn9hQDg0)
+[Video Link](https://www.youtube.com/shorts/Z11REMjYteA?si=B3Kr4TuOJMTn-b3M)
 
 ## September 18
 ### Robot-1 Base
