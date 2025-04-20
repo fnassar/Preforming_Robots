@@ -4,15 +4,6 @@
 ## Final Robot
 [Video Link](https://www.youtube.com/shorts/Z11REMjYteA?si=B3Kr4TuOJMTn-b3M)
 
-## Main Steps:
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot3.jpg" alt="robot1" height="500"/>
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot2.jpg" alt="robot1" height="500"/>
-<img src="https://github.com/fnassar/Preforming_Robots/blob/main/images/robot1.jpg" alt="robot1" height="500"/>
-
-## September 18
-### Robot-1 Base
-
-
 ## September 24
 ### Story
 [Music](https://www.youtube.com/watch?v=lRXLAeogv5U)
